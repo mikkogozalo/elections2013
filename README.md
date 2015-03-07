@@ -1,2 +1,2 @@
-# elections2013
-2013 PHL Elections
+# 2013 PHL Elections scraper
+... using Scrapy
